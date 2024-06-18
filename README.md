@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="screenshots/devTerms_screenshot01.png" width="1000" title="devTerms_screenshot01">
+<a href="screenshots/devTerms_screenshot01.png">;
+</p>
+
 # Review Your Dev Terms 
 
 For beginners or advanced programmers, a little repository showing info about various development terms.
